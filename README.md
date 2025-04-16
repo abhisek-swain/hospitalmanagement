@@ -7,4 +7,6 @@ Login Details for Patient: johndoe12@test.com/Test@123
 
 Login Details for Doctor: anujk123@test.com/Test@123
 
+for any query contact-8117933884
+
 
